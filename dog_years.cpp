@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    //Input your own dogs age after the = the example age is set to 6.
+    //Input your own dogs age after the = the example age is set to 10.
     int dog_age = 10;
     dog_age = dog_age;
 
@@ -16,7 +16,7 @@ int main() {
     //Adding Early and Later years, while storing inside the var Human
     human_years = early_years + later_years;
 
-    //You can change your dogs name too! Just replace "Chewy"!
+    //You can change your dogs name too! Just replace "Aldo"!
     std::cout << "My name is Aldo! " << "I am " << human_years << " dog years young. WOOF\n";
 
 }
